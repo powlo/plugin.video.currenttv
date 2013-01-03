@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+	<!-- Title -->
+	<string id="30000">Current TV</string>
+
+	<!-- Settings -->
+	<string id="30001">Version</string>
+	<string id="30002">Author</string>
+	<string id="30003">Website</string>
+	<string id="30004">Check for Updates</string>
+	<string id="30005">Debug</string>
+
+	<!-- Messages -->
+	<string id="30101">No video found.</string>
+	<string id="30102">Getting video location...</string>
+	<string id="30103">Update available on SVN Repo Installer</string>
+	<string id="30104">[COLOR=FFFF0000]Current Version[/COLOR] : </string>
+	<string id="30105">[COLOR=FF00FF00]Update Version[/COLOR] : </string>
+</strings>

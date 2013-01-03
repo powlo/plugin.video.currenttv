@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+	<!-- Title -->
+	<string id="30000">Current TV</string>
+
+	<!-- Settings -->
+	<string id="30001">Sürüm</string>
+	<string id="30002">Yazar</string>
+	<string id="30003">Web Site</string>
+	<string id="30004">Güncellik Kontrolü</string>
+	<string id="30005">Hata Ayıklama</string>
+
+	<!-- Messages -->
+	<string id="30101">Video bulunamadı.</string>
+	<string id="30102">Video alınıyor...</string>
+	<string id="30103">Yeni Sürüm Bulundu! SVN Repo Installer İle Güncelleyin!</string>
+	<string id="30104">[COLOR=FFFF0000]Mevcut Sürüm[/COLOR] : </string>
+	<string id="30105">[COLOR=FF00FF00]Yeni Sürüm[/COLOR] : </string>
+</strings>

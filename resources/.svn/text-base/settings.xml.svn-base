@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <setting id="version"   type="text" label="30001" default="1.0.0"                        		enable="false" />
+    <setting id="author"    type="text" label="30002" default="queeup"                    			enable="false" />
+    <setting id="website"   type="text" label="30003" default="http://code.google.com/p/queeup/" 	enable="false" />
+    <setting                type="sep" />
+    <setting id="update"  	type="bool" label="30004" default="true" />
+    <setting id="debug"  	type="bool" label="30005" default="false" />
+</settings>
